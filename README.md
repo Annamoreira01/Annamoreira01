@@ -4,14 +4,14 @@ Me chamo Anna e vou mostrar os projetos feitos por mim até agora aulas de tecno
 
 **projetos:**
 
-Relâmpago scratch https://scratch.mit.edu/projects/980751392
+**Rêlampago alura Scratch** https://scratch.mit.edu/projects/980751392
 
-Roleta da sorte scratch https://scratch.mit.edu/projects/988538711
+**Roleta da sorte alura Scratch** https://scratch.mit.edu/projects/988538711
 
-Fundo do mar https://scratch.mit.edu/projects/989612793
+**Fundo do mar alura Scratch** https://scratch.mit.edu/projects/989612793
 
-Cartas scratch https://scratch.mit.edu/projects/1000298959
+**jogo das Cartas alura Scratch** https://scratch.mit.edu/projects/1000298959
 
-Ping-Poing scratch https://scratch.mit.edu/projects/1013544842
+**Ping-Poing alura Scratch** https://scratch.mit.edu/projects/1013544842
 
-Ping-Poing javascript https://editor.p5js.org/Annaelisa2006/sketches/VF-_jLZLO
+**Ping-Poing alura Javascript** https://editor.p5js.org/Annaelisa2006/sketches/VF-_jLZLO
